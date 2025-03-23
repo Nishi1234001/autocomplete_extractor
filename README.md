@@ -12,9 +12,17 @@ This project extracts all possible names from an autocomplete API using a breadt
 - **Data Aggregation:**  
   Names are collected in a set to remove duplicates and are then saved to `collected_names.txt`.
 
-## Findings
-- **Total API Requests Made:** 572 requests  
-- **Total Unique Names Collected:** 242 names
+## Findings for --version v1
+- **Total API Requests Made:** 1716 requests  
+- **Total Unique Names Collected:** 819 names
+
+## Findings for --version v2
+- **Total API Requests Made:** 26 requests  
+- **Total Unique Names Collected:** 312 names
+
+## Findings for --version v3
+- **Total API Requests Made:** 26 requests  
+- **Total Unique Names Collected:** 390 names
 
 ## Usage Instructions
 1. Ensure you have Python installed.
